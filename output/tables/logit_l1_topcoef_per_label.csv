@@ -1,0 +1,301 @@
+label,feature,coef
+Immune,black elderberry fruit extract,3.1109477178698386
+Immune,proprietary formula,2.802470692755121
+Immune,black cumin seed oil,2.4202293239284547
+Immune,black elderberry extract,2.3875672521871114
+Immune,epicor,2.1858898779878833
+Immune,elderberry fruit extract,2.021295735003299
+Immune,raw organic fruit vegetable blend,1.7858664303602523
+Immune,neurofactor,1.7741790865575933
+Immune,astragalus,1.5974573052648557
+Immune,bovine colostrum,1.5756265559837386
+Immune,pycnogenol,1.4201383207786498
+Immune,ionic trace minerals,1.3455909320525614
+Immune,nickel,1.2898421297924383
+Immune,"pumpkin, powder",1.2897682595683784
+Immune,turmeric extract,1.2712732612673017
+Immune,"bamboo leaf, stem extract",1.2344744802063679
+Immune,serrapeptase,1.175680735358426
+Immune,olive leaf extract,1.1716212296190607
+Immune,ubiquinol,1.1161785085954237
+Immune,dicaffeine malate,1.0777926731704295
+Immune,saccharomyces boulardii,1.0577949949491696
+Immune,proprietary probiotic blend,1.0202157272420853
+Immune,"turmeric, powder",0.9902539077915952
+Immune,quercetin,0.9783349446805847
+Immune,n-acetyl-l-cysteine,0.9425867979047133
+Immune,orchard fruits garden veggies powder blend,0.8956759668286748
+Immune,vitamin d2,0.868406847992989
+Immune,turmeric,0.8462621458996493
+Immune,total omega-3 fatty acids,0.8379985865873503
+Immune,l-lysine,0.8305075977551684
+Energy,ubiquinol,3.4594978229096185
+Energy,energy blend,3.1613796244271177
+Energy,leucine,2.454555338231389
+Energy,raw probiotic enzyme blend,1.985826074827091
+Energy,citicoline,1.9664513032168907
+Energy,caffeine,1.8420620519401047
+Energy,coenzyme q10,1.6867316229752303
+Energy,l-carnitine,1.5610595423069646
+Energy,"beet, powder",1.4911490330523431
+Energy,nickel,1.4226594409647408
+Energy,d-ribose,1.397095492560903
+Energy,ionic trace minerals,1.3862969453814087
+Energy,l-alanine,1.3625080922023458
+Energy,capsimax,1.3428347017282414
+Energy,"panax ginseng, powder",1.3414399566113955
+Energy,bovine colostrum,1.3143341691456436
+Energy,silymarin,1.2845582158543984
+Energy,beta-nicotinamide mononucleotide,1.246615720017595
+Energy,cordyceps,1.2297709231699432
+Energy,coenzyme q-10,1.212639254077366
+Energy,maltase,1.1897524398867856
+Energy,l-carnitine l-tartrate,1.176776364057194
+Energy,bioperine complex,1.1273934196184772
+Energy,teacrine,1.1230990885237135
+Energy,tongkat ali root extract,1.1173805756384274
+Energy,vitamin b12,1.0974170680303523
+Energy,citrulline malate,1.0405534014710889
+Energy,green coffee bean extract,1.0270957730399102
+Energy,rhodiola root extract,0.9954891857365253
+Energy,carnosyn,0.9926184742923837
+Sleep/Calm,melatonin,4.697877151635494
+Sleep/Calm,"bamboo leaf, stem extract",3.5557239348294374
+Sleep/Calm,"huperzia serrata leaf, stem extract",3.4313835760484594
+Sleep/Calm,suntheanine,2.866774612173072
+Sleep/Calm,gaba,2.4270923172666974
+Sleep/Calm,valerian root extract,2.387315898061013
+Sleep/Calm,l-5-hydroxytryptophan,2.38251041072617
+Sleep/Calm,sensoril,2.3336977260709095
+Sleep/Calm,ksm-66,2.2479080799971305
+Sleep/Calm,"ashwagandha, powder",2.207454649709706
+Sleep/Calm,ashwagandha root extract,2.030692821062169
+Sleep/Calm,l-tryptophan,2.014311295525388
+Sleep/Calm,lemon balm,1.9915135172869955
+Sleep/Calm,passionflower aerial parts extract,1.9507159948737476
+Sleep/Calm,valerian,1.8992027948884513
+Sleep/Calm,5-htp,1.8877345183280876
+Sleep/Calm,ashwagandha,1.7775940138017718
+Sleep/Calm,magnolia bark extract,1.7480437640458695
+Sleep/Calm,passionflower,1.6923236740224297
+Sleep/Calm,holy basil,1.6893489284291112
+Sleep/Calm,chamomile,1.6474110754761837
+Sleep/Calm,l-theanine,1.5879420158430906
+Sleep/Calm,carbohydrates,1.500850642925529
+Sleep/Calm,5-hydroxytryptophan,1.4282470497881736
+Sleep/Calm,reishi mushroom fruiting body extract,1.402010584966622
+Sleep/Calm,holy basil leaf extract,1.359186827066358
+Sleep/Calm,lemon balm aerial parts extract,1.27171884916443
+Sleep/Calm,dehydroepiandrosterone,1.2660795237649856
+Sleep/Calm,pine bark extract,1.1834078158266579
+Sleep/Calm,hydromax,1.0706738745831341
+Cognitive/Focus,citicoline,3.0619265018168065
+Cognitive/Focus,lion s mane,2.896075263166675
+Cognitive/Focus,cognizin,2.662571796738023
+Cognitive/Focus,ginkgo biloba leaf extract,2.5515459370545877
+Cognitive/Focus,norwegian fish oil,2.5089775064794635
+Cognitive/Focus,neurofactor,2.346721129420608
+Cognitive/Focus,reishi mushroom fruiting body extract,2.1602010443498845
+Cognitive/Focus,phosphatidylserine,2.1472523699394697
+Cognitive/Focus,ginkgo leaf extract,2.145905448328361
+Cognitive/Focus,total omega-3 fatty acids,1.9366629512451456
+Cognitive/Focus,himalayan rock salt,1.913263970878674
+Cognitive/Focus,ginkgo biloba extract,1.8978688678876035
+Cognitive/Focus,amino acid blend,1.8493752362728326
+Cognitive/Focus,acetyl-l-carnitine,1.79615333797577
+Cognitive/Focus,productT_Fat/Fatty Acid,1.69228171049782
+Cognitive/Focus,l-alanine,1.483203680553885
+Cognitive/Focus,gotu kola,1.4047155744356987
+Cognitive/Focus,energy,1.3529319694603914
+Cognitive/Focus,ginkgo biloba,1.336058388169896
+Cognitive/Focus,cordyceps mycelium extract,1.185242111690311
+Cognitive/Focus,choline,1.0736080922115532
+Cognitive/Focus,docosahexaenoic acid,1.0343540473491684
+Cognitive/Focus,"caffeine, natural",1.0325954445146819
+Cognitive/Focus,hydromax,1.0056545559113843
+Cognitive/Focus,omega-3 fatty acids,0.9665402091481441
+Cognitive/Focus,fish oil concentrate,0.9409646777293325
+Cognitive/Focus,stevia leaf extract,0.9013326576079749
+Cognitive/Focus,suntheanine,0.8163960053569281
+Cognitive/Focus,energy blend,0.8065918473391889
+Cognitive/Focus,spirulina,0.7932325444839851
+Joint/Bone,glucosamine sulfate potassium chloride,4.787438917027208
+Joint/Bone,glucosamine sulfate,4.176350957586319
+Joint/Bone,glucosamine hydrochloride,3.240834846385766
+Joint/Bone,collagen peptides,3.0078017225233515
+Joint/Bone,multi collagen complex,2.928235221290043
+Joint/Bone,bovine collagen peptides,2.870878070269273
+Joint/Bone,biocell collagen,2.517786495204556
+Joint/Bone,"bamboo leaf, stem extract",2.256576967375213
+Joint/Bone,chondroitin sulfate,2.0525600042543166
+Joint/Bone,optimsm,1.9583839362160629
+Joint/Bone,methylsulfonylmethane,1.919025369047313
+Joint/Bone,turmeric rhizome extract,1.8675886003008004
+Joint/Bone,hyaluronic acid,1.8268892219215942
+Joint/Bone,turmeric,1.8224976323905675
+Joint/Bone,vitamin d3,1.8164238755005322
+Joint/Bone,msm,1.7650196434912786
+Joint/Bone,norwegian fish oil,1.7192928600650552
+Joint/Bone,turmeric root extract,1.7187943969733566
+Joint/Bone,collagen,1.6313859479138204
+Joint/Bone,turmeric extract,1.5698242554718196
+Joint/Bone,phospholipids,1.5616607972303929
+Joint/Bone,white willow bark extract,1.530031778088046
+Joint/Bone,vitamin d,1.473540753075154
+Joint/Bone,vitamin k2,1.3416065160049253
+Joint/Bone,lemon bioflavonoid complex,1.1358625768355073
+Joint/Bone,protein,1.1293301685851198
+Joint/Bone,curcumin c3 complex,1.0979901855848149
+Joint/Bone,boron,1.096669926590316
+Joint/Bone,silicon,1.0954770501412279
+Joint/Bone,cat s claw,1.08896073618062
+Heart/Cardio,ubiquinol,2.742453070930731
+Heart/Cardio,nattokinase,2.60453010051218
+Heart/Cardio,hawthorn,2.34770178557737
+Heart/Cardio,orchard fruits garden veggies powder blend,2.105282183813628
+Heart/Cardio,policosanol,2.06738538825844
+Heart/Cardio,coenzyme q10,2.0641639025778797
+Heart/Cardio,leucine,2.060804331484322
+Heart/Cardio,hawthorn berry extract,2.040477145477229
+Heart/Cardio,"beet, powder",1.9074548657641692
+Heart/Cardio,neurofactor,1.8380350271449493
+Heart/Cardio,raw organic fruit vegetable blend,1.7676354967393182
+Heart/Cardio,dehydroepiandrosterone,1.716759813209161
+Heart/Cardio,psyllium,1.6898339045980977
+Heart/Cardio,coenzyme q-10,1.5938538289377462
+Heart/Cardio,no3-t,1.5832740602733872
+Heart/Cardio,"huperzia serrata leaf, stem extract",1.5518747359169736
+Heart/Cardio,pregnenolone,1.496522020832384
+Heart/Cardio,"bamboo leaf, stem extract",1.4689210649596063
+Heart/Cardio,branched-chain amino acids,1.4423431152453128
+Heart/Cardio,yohimbe bark extract,1.3838883069982555
+Heart/Cardio,garlic bulb extract,1.2764607336545157
+Heart/Cardio,norwegian fish oil,1.2455303001873015
+Heart/Cardio,phospholipids,1.2449972834926766
+Heart/Cardio,horse chestnut seed extract,1.225264292560966
+Heart/Cardio,garlic,1.1976978545217498
+Heart/Cardio,asian ginseng root extract,1.1459515081936194
+Heart/Cardio,l-arginine,1.1336188192360561
+Heart/Cardio,medium chain triglyceride,1.0949547221822913
+Heart/Cardio,red yeast rice,1.0927428608955205
+Heart/Cardio,total omega-3 fatty acids,1.0778052265301115
+Digestive/Gut,proprietary probiotic blend,4.097665309201514
+Digestive/Gut,probiotic blend,3.0522784160357306
+Digestive/Gut,saccharomyces boulardii,2.413813953957713
+Digestive/Gut,psyllium,2.087908792778603
+Digestive/Gut,"psyllium, powder",2.020224100777738
+Digestive/Gut,cascara sagrada,2.0093553177442076
+Digestive/Gut,silymarin,1.9332329542974518
+Digestive/Gut,inulin,1.8942241380139977
+Digestive/Gut,productT_Fiber and Other Nutrients,1.8847870073286968
+Digestive/Gut,multi collagen complex,1.8345050438937072
+Digestive/Gut,pancreatin,1.813202153112722
+Digestive/Gut,"apple cider vinegar, powder",1.7284754714410584
+Digestive/Gut,fiber blend,1.6674484913602305
+Digestive/Gut,marshmallow root extract,1.6381855451409106
+Digestive/Gut,enzyme blend,1.5560757638993952
+Digestive/Gut,lactobacillus acidophilus,1.5450483203197907
+Digestive/Gut,epicor,1.5253502255411582
+Digestive/Gut,alpha-galactosidase,1.522319164784543
+Digestive/Gut,peppermint,1.487002084593487
+Digestive/Gut,raw probiotic enzyme blend,1.44508590452269
+Digestive/Gut,fructooligosaccharides,1.4315495229739894
+Digestive/Gut,serrapeptase,1.412274627938655
+Digestive/Gut,glucoamylase,1.3879081084394562
+Digestive/Gut,bacillus coagulans,1.331605169118333
+Digestive/Gut,"cranberry, powder",1.298603314514446
+Digestive/Gut,lipase,1.275002633103161
+Digestive/Gut,apple cider vinegar,1.264514699356109
+Digestive/Gut,nattokinase,1.2186474855651865
+Digestive/Gut,digestive enzyme blend,1.2081515493763426
+Digestive/Gut,tg_Infants/Baby (0 - 1 Year),1.1985798618450854
+Men’s/Women’s,tg_Women (not pregnant or lactating),5.428519062004553
+Men’s/Women’s,raw probiotic enzyme blend,2.6246092032576107
+Men’s/Women’s,tg_Pregnant Women,2.0020084389768256
+Men’s/Women’s,tg_Adult Female (18 - 50 Years),1.913127448806875
+Men’s/Women’s,physical_Bar,1.8459540894778885
+Men’s/Women’s,"bamboo leaf, stem extract",1.7966191791132446
+Men’s/Women’s,calcium d-glucarate,1.7755397448439205
+Men’s/Women’s,saw palmetto berry extract,1.7317774596957425
+Men’s/Women’s,tg_Seniors/Mature (>50 Years) - Men ONLY,1.5809987797590195
+Men’s/Women’s,kelp,1.5618876533957555
+Men’s/Women’s,"whey protein isolate, microfiltered, ultrafiltered",1.5311024986205832
+Men’s/Women’s,amino acid blend,1.5112249769807469
+Men’s/Women’s,tg_Menopause,1.4993357480653824
+Men’s/Women’s,tg_Adult Male (18-50 Years),1.4443828287526614
+Men’s/Women’s,soy lecithin,1.3832531112318223
+Men’s/Women’s,dl-methionine,1.3494058547319143
+Men’s/Women’s,multi collagen complex,1.3380021225830596
+Men’s/Women’s,tg_Seniors/Mature (>50 Years) - Women ONLY,1.2302619879979195
+Men’s/Women’s,silica,1.1653923458220707
+Men’s/Women’s,"ginger, powder",1.1507140852708437
+Men’s/Women’s,5-htp,1.1070049855399169
+Men’s/Women’s,bovine collagen peptides,1.0938032973370075
+Men’s/Women’s,caprylic acid,1.0867863666489945
+Men’s/Women’s,tg_Adult (18 - 50 Years),1.0747250533954367
+Men’s/Women’s,vitamin b3,0.9613345128491296
+Men’s/Women’s,physical_Gummy or Jelly,0.9527151487673701
+Men’s/Women’s,tg_Lactating,0.9425202370772646
+Men’s/Women’s,black elderberry extract,0.930906474806678
+Men’s/Women’s,vitamin b7,0.9225509327546461
+Men’s/Women’s,pycnogenol,0.8733761912013805
+Sports/Performance,creatine monohydrate,2.6364903858647866
+Sports/Performance,no3-t,2.157047529531726
+Sports/Performance,beta-alanine,2.0221738846279287
+Sports/Performance,raw probiotic enzyme blend,1.9946592487226689
+Sports/Performance,tg_Adult Male (18-50 Years),1.5754881830425806
+Sports/Performance,carnosyn,1.549057029205455
+Sports/Performance,l-leucine,1.4906917952578784
+Sports/Performance,l-citrulline,1.486990803454447
+Sports/Performance,"beet, powder",1.4837338755242693
+Sports/Performance,nitrosigine,1.3777119005389422
+Sports/Performance,conjugated linoleic acid,1.268120854458683
+Sports/Performance,agmatine sulfate,1.2211359558631032
+Sports/Performance,tribulus terrestris extract,1.1964949281322705
+Sports/Performance,amino acid blend,1.1354713614712078
+Sports/Performance,tongkat ali root extract,1.1330915558065062
+Sports/Performance,l-citrulline malate,1.07671007284207
+Sports/Performance,leucine,1.0517783639715015
+Sports/Performance,bioperine,1.041344852837141
+Sports/Performance,"bamboo leaf, stem extract",1.0236635752927368
+Sports/Performance,malic acid,1.0149769899285042
+Sports/Performance,"maca, powder",0.9864810888874435
+Sports/Performance,hydromax,0.9659547676742991
+Sports/Performance,cordyceps,0.9500470000333039
+Sports/Performance,bovine colostrum,0.9346652686219612
+Sports/Performance,elevatp,0.9162994524403323
+Sports/Performance,maca,0.892534594542106
+Sports/Performance,l-arginine hydrochloride,0.88369708890831
+Sports/Performance,tart cherry fruit extract,0.8695534789011509
+Sports/Performance,orchard fruits garden veggies powder blend,0.8598145124527148
+Sports/Performance,l-carnitine l-tartrate,0.8543921639949422
+General Wellness,yohimbe bark extract,2.200117065719855
+General Wellness,lemon bioflavonoid complex,2.1527687172825134
+General Wellness,orchard fruits garden veggies powder blend,1.83112440479366
+General Wellness,serrapeptase,1.5837525904313894
+General Wellness,all herbal ingredients,1.4494219618181678
+General Wellness,fiber blend,1.4117056741965928
+General Wellness,collagen peptides,1.3869089837138604
+General Wellness,total omega-3 fatty acids,1.2360194865472467
+General Wellness,astragalus root extract,1.1040652617847289
+General Wellness,bovine collagen peptides,1.0908084474172164
+General Wellness,apple cider vinegar,1.0611117934951932
+General Wellness,"apple cider vinegar, powder",1.0130616190634245
+General Wellness,"ashwagandha, powder",0.9829490316896647
+General Wellness,bifidobacterium bifidum,0.9769162276561416
+General Wellness,sugar,0.8822570659869173
+General Wellness,energy,0.8054824846332093
+General Wellness,policosanol,0.7759979162502008
+General Wellness,ubiquinol,0.741415906005366
+General Wellness,l-cysteine hydrochloride,0.7397086714865394
+General Wellness,tg_Kosher,0.7178066576568526
+General Wellness,lycopene,0.6925530053535712
+General Wellness,burdock,0.6705716528397336
+General Wellness,omega-3 fatty acids,0.6295985938988268
+General Wellness,vanadium,0.61058437692345
+General Wellness,"pomegranate juice, powder",0.600067713448875
+General Wellness,hemicellulase,0.5800909151092544
+General Wellness,vitamin e,0.5791251243678942
+General Wellness,saturated fat,0.5538141595650141
+General Wellness,dandelion root extract,0.5522394017464923
+General Wellness,black pepper fruit extract,0.5497012131340845
